@@ -21,3 +21,5 @@
 **Acceptance Criteria:**
 - OAuth2 flow for at least one major accounting platform.
 - Webhook endpoints to handle invoice status changes from the accounting software.
+
+// patch: 2026-05-30T11:32:25.945951
