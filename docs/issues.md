@@ -23,3 +23,5 @@
 - Webhook endpoints to handle invoice status changes from the accounting software.
 
 // patch: 2026-05-30T11:32:25.945951
+
+// patch: 2026-06-01T07:19:27.567574
